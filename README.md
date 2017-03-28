@@ -3,7 +3,7 @@
 该仓库主要用于完成实现有关Java多线程的练习处理
 
 
-## 添加Thread和Runnable的区别描述
+## Thread和Runnable的区别
 实现Runnable接口比继承Thread类所具有的优势：
 
 1）：适合多个相同的程序代码的线程去处理同一个资源
